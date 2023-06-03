@@ -54,5 +54,6 @@
 
 - O Git apresenta uma série de comandos, cada uma com a sua função específica. Entre as utilizadas no workshop e para fazer o EP, é possível citar:
 - **Git init**: É a função utiilizada para inicializar o git dentro de um diretório. Esse é o primeiro comando a ser realizado para que faça sentido utilizar os outros. Portanto, é necessário digitar "git add" antes de qualquer operação com o git. Com esse comando, é criado/acessado um diretório especialmente para realizar as funções com o git (geralmente termina com /.git).
-- **Git add**: Função empregada para adicionar um arquivo ao git, para que ele seja trabalhado postteriormente. É importante usar o git add, já que esse comando estará solicitando que, por exemplo, o arquivo adicionado vá para o
+- **Git add**: Função empregada para adicionar um arquivo ao git, para que ele seja trabalhado postteriormente. É importante usar o git add, já que esse comando estará solicitando que, por exemplo, o arquivo adicionado vá para o diretório /.git, e com isso ser salvo. Por exemplo, supondo que um arquivo chamado "teste.py" foi criado com o comando nano. Para salvar, digita-se "git add teste.py".
+- **Git status**: Exibe o status dos arquivos, tanto aqueles que foram salvos quanto os que não foram. Então, se o "teste.py" não foi adicionado com o git add, o status deverá exibir que, de fato, esse arquivo não foi salvo (geralmente, ele será exibido na cor vermelha).
 # GitHub
