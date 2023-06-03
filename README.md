@@ -51,4 +51,8 @@
 ![image](https://github.com/iOtavio/Workshop-sky/assets/124748405/ce60f9c7-443b-43d2-9d14-a4ec2aeccf62)
 
 # Git - Comandos
+
+- O Git apresenta uma série de comandos, cada uma com a sua função específica. Entre as utilizadas no workshop e para fazer o EP, é possível citar:
+- **Git init**: É a função utiilizada para inicializar o git dentro de um diretório. Esse é o primeiro comando a ser realizado para que faça sentido utilizar os outros. Portanto, é necessário digitar "git add" antes de qualquer operação com o git. Com esse comando, é criado/acessado um diretório especialmente para realizar as funções com o git (geralmente termina com /.git).
+- **Git add**: Função empregada para adicionar um arquivo ao git, para que ele seja trabalhado postteriormente. É importante usar o git add, já que esse comando estará solicitando que, por exemplo, o arquivo adicionado vá para o
 # GitHub
