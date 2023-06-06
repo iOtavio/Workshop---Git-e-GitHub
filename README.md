@@ -55,5 +55,16 @@
 - O Git apresenta uma série de comandos, cada uma com a sua função específica. Entre as utilizadas no workshop e para fazer o EP, é possível citar:
 - **Git init**: É a função utiilizada para inicializar o git dentro de um diretório. Esse é o primeiro comando a ser realizado para que faça sentido utilizar os outros. Portanto, é necessário digitar "git add" antes de qualquer operação com o git. Com esse comando, é criado/acessado um diretório especialmente para realizar as funções com o git (geralmente termina com /.git).
 - **Git add**: Função empregada para adicionar um arquivo ao git, para que ele seja trabalhado postteriormente. É importante usar o git add, já que esse comando estará solicitando que, por exemplo, o arquivo adicionado vá para o diretório /.git, e com isso ser salvo. Por exemplo, supondo que um arquivo chamado "teste.py" foi criado com o comando nano. Para salvar, digita-se "git add teste.py".
-- **Git status**: Exibe o status dos arquivos, tanto aqueles que foram salvos quanto os que não foram. Então, se o "teste.py" não foi adicionado com o git add, o status deverá exibir que, de fato, esse arquivo não foi salvo (geralmente, ele será exibido na cor vermelha).
+- **Git status**: Exibe o status dos arquivos, tanto aqueles que foram salvos quanto os que não foram. Então, se o "teste.py" não foi adicionado com o git add, o status deverá exibir que, de fato, esse arquivo não foi salvo (geralmente, ele será exibido na cor vermelha) Se foi salvo, o "teste.py" ficará na cor verde.
+- **Git commit**: Possui a função de gravar as alterações realizadas num arquivo. No caso, ao dar o commit, é necessário anexar uma mensagem com "--m"mensagem"" explicando a alteração feita, facilitando o entendimento de outros usuários.
+
+![image](https://github.com/iOtavio/Workshop-sky/assets/124748405/6ba49ae6-513a-48d4-8f08-43a0bbd5bb46)
+
+
 # GitHub
+- O Github é um serviço em nuvem que hospeda o Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
+- No GitHub, é possível ver as alterações realizadas por todos os desenvolvedores dentro de um mesmo projeto, por exemplo. Isso acaba por auxiliar o grupo na organização de várias mudanças em um mesmo código. Caso as novas mudanças sejam problemáticas, ainda há o histórico das versões estáveis.
+
+![image](https://github.com/iOtavio/Workshop-sky/assets/124748405/59d6f47a-4576-4944-a1e8-ee367beb7ab1)
+
+
