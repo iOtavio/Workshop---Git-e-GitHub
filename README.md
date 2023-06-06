@@ -69,7 +69,8 @@
 # Obrigado pela sua atenção!
 
 
-![image](https://github.com/iOtavio/Workshop-sky/assets/124748405/f5c768b5-37f3-428b-a008-8f1dafbdad2a)
+![image](https://github.com/iOtavio/Workshop-sky/assets/124748405/c51bae39-d100-4d23-9ef0-571c5421b8bb)
+
 
 
 
