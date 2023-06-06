@@ -60,6 +60,7 @@
 
 ![image](https://github.com/iOtavio/Workshop-sky/assets/124748405/6ba49ae6-513a-48d4-8f08-43a0bbd5bb46)
 
+# Obrigado pela sua atenção!
 
 # GitHub
 - O Github é um serviço em nuvem que hospeda o Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
