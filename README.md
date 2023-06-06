@@ -60,12 +60,12 @@
 
 ![image](https://github.com/iOtavio/Workshop-sky/assets/124748405/6ba49ae6-513a-48d4-8f08-43a0bbd5bb46)
 
-# Obrigado pela sua atenção!
-
 # GitHub
 - O Github é um serviço em nuvem que hospeda o Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
 - No GitHub, é possível ver as alterações realizadas por todos os desenvolvedores dentro de um mesmo projeto, por exemplo. Isso acaba por auxiliar o grupo na organização de várias mudanças em um mesmo código. Caso as novas mudanças sejam problemáticas, ainda há o histórico das versões estáveis.
 
 ![image](https://github.com/iOtavio/Workshop-sky/assets/124748405/59d6f47a-4576-4944-a1e8-ee367beb7ab1)
+
+# Obrigado pela sua atenção!
 
 
